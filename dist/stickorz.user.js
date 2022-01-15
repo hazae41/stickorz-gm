@@ -7,8 +7,8 @@
 // @match        https://www.jeuxvideo.com/*
 // @match        https://m.jeuxvideo.com/*
 // @icon         https://stickorz.studio/favicon.png
-// @downloadURL  https://stickorz.studio/stickorz.user.js
-// @updateURL    https://stickorz.studio/stickorz.user.js
+// @downloadURL  https://github.com/hazae41/stickorz-gm/raw/master/dist/stickorz.user.js
+// @updateURL    https://github.com/hazae41/stickorz-gm/raw/master/dist/stickorz.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
