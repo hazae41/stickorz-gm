@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.config": "tsconfig.json",
+  "deno.lint": true,
+  "deno.suggest.completeFunctionCalls": true
+}
